@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/21696386/README.1.md)
 # 📊 HR Analytics Dashboard
 
 Unlock actionable workforce insights and drive smarter HR decisions with this interactive Power BI dashboard.
