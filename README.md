@@ -14,6 +14,8 @@ It transforms raw HR data into impactful visuals, enabling organizations to opti
 ## 🖼️ Dashboard Preview
 
 ### Main Dashboard Overview
+<img width="1120" height="628" alt="Screenshot 2025-08-09 114006" src="https://github.com/user-attachments/assets/0d38ee99-cfed-4cc1-b613-4d4c7a5ad7b8" />
+
 ![HR Analytics Dashboard Main](file-service://file-517qC7YUjUM217sbUVMxE1)
 
 **Key Highlights:**
@@ -24,6 +26,8 @@ It transforms raw HR data into impactful visuals, enabling organizations to opti
 ---
 
 ### Focused Departmental View
+<img width="1117" height="625" alt="Screenshot 2025-08-09 114038" src="https://github.com/user-attachments/assets/e4f3e805-0585-45ef-b3fe-e501f661a445" />
+
 ![Departmental HR Dashboard](file-service://file-UjBnuSEWGJ1vLxh5Sv1rfb)
 
 **Use Case:**  
